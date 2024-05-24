@@ -400,7 +400,7 @@
         "uid": "Client"
       },
       {
-        "minIOSVersion": "1.22.0"
+        "minIOSVersion": "2.20.0"
       },
       {
         "tweakVersion": "3"
