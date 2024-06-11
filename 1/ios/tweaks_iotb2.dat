@@ -806,21 +806,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -956,21 +956,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1106,21 +1106,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1256,21 +1256,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1406,21 +1406,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1556,21 +1556,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1706,21 +1706,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -1856,21 +1856,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2006,21 +2006,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2156,21 +2156,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2306,21 +2306,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2456,21 +2456,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2606,21 +2606,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2756,21 +2756,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -2906,21 +2906,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3056,21 +3056,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3206,21 +3206,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3356,21 +3356,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3506,21 +3506,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3656,21 +3656,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -3806,21 +3806,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -4042,21 +4042,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -4075,13 +4075,13 @@
                   "amountToSucceed":"65"
                },
                {
-                  "eventComingDate":"9/9/2012 00:01 -7:00"
+                  "eventComingDate":"9/9/2024 00:01 -7:00"
                },
                {
-                  "startDate":"9/10/2012 00:01 -7:00"
+                  "startDate":"9/10/2024 00:01 -7:00"
                },
                {
-                  "endDate":"9/12/2012 23:59 -7:00"
+                  "endDate":"9/12/2024 23:59 -7:00"
                },
                {
                   "rewardNumber":"1"
@@ -4277,22 +4277,22 @@
                                  }
                               ]
                            },
-                           {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+                          {
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -4514,21 +4514,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -4750,21 +4750,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -4986,21 +4986,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -5221,22 +5221,22 @@
                                  }
                               ]
                            },
-                           {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+                          {
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -5458,21 +5458,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -5694,21 +5694,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -5930,21 +5930,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -6166,21 +6166,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -6402,21 +6402,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -6638,21 +6638,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -6874,21 +6874,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -7109,22 +7109,22 @@
                                  }
                               ]
                            },
-                           {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+                          {
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -7346,21 +7346,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -7582,21 +7582,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -9237,6 +9237,18 @@
             "ramSizeRange":"2048-4095",
             "numCores":"4"
          },
+	      {
+	              "uid": "AndroidTier4b",
+	              "settingsProfile": "EverythingOn",
+	              "ramSizeRange": "4096-16048",
+	              "numCores": "4"
+	      },
+	      {
+	      "uid": "AndroidTier5b",
+	              "settingsProfile": "EverythingOn",
+	              "ramSizeRange": "4096-16048",
+	              "numCores": "8"
+	      },
          {
             "uid":"AndroidUnknown",
             "settingsProfile":"Lowest"
