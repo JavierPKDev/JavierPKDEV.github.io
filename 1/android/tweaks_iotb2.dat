@@ -410,10 +410,10 @@
    {
       "lives":[
          {
-            "maxLives":"10"
+            "maxLives":"5"
          },
          {
-            "initialLives":"10"
+            "initialLives":"5"
          },
          {
             "lifeRegenSeconds":"1500"
