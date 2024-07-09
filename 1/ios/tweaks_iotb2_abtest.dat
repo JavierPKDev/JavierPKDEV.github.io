@@ -194,7 +194,7 @@
             "levelFailAdTimesSeenMaxKids":"5"
          },
 		 {
-			"adsOnRewardsEnabled":"false"
+			"adsOnRewardsEnabled":"true"
 		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
