@@ -194,7 +194,7 @@
             "levelFailAdTimesSeenMaxKids":"5"
          },
 		 {
-			"adsOnRewardsEnabled":"true"
+			"adsOnRewardsEnabled":"false"
 		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
@@ -6170,7 +6170,7 @@
    {
       "ads":[
          {
-            "interstitialAdsEnabled":"true"
+            "interstitialAdsEnabled":"false"
          },
          {
             "interstitialAdsEnabledOnLevelLose":"true"
