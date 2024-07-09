@@ -194,7 +194,7 @@
             "levelFailAdTimesSeenMaxKids":"5"
          },
 		 {
-			"adsOnRewardsEnabled":"false"
+			"adsOnRewardsEnabled":"true"
 		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
@@ -6170,7 +6170,7 @@
    {
       "ads":[
          {
-            "interstitialAdsEnabled":"false"
+            "interstitialAdsEnabled":"true"
          },
          {
             "interstitialAdsEnabledOnLevelLose":"true"
@@ -6179,10 +6179,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"10"
+            "interstitialAdMaxTimesSeenThisSession":"2"
          },
          {
-            "interstitialAdTimesSeenMax":"10"
+            "interstitialAdTimesSeenMax":"2"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
@@ -6197,7 +6197,7 @@
             "interstitialNumberOfWinToShowInterstitial":"2"
          },
 		 {
-            "interstitialOnlyOnNumberOfWin":"false"
+            "interstitialOnlyOnNumberOfWin":"true"
          }
 		 
       ]
