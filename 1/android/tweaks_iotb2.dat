@@ -6179,10 +6179,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"2"
+            "interstitialAdMaxTimesSeenThisSession":"4"
          },
          {
-            "interstitialAdTimesSeenMax":"2"
+            "interstitialAdTimesSeenMax":"4"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
@@ -6194,7 +6194,7 @@
             "interstitialAdNumSessionsToSkip":"0"
          },
 		 {
-            "interstitialNumberOfWinToShowInterstitial":"2"
+            "interstitialNumberOfWinToShowInterstitial":"4"
          },
 		 {
             "interstitialOnlyOnNumberOfWin":"true"
