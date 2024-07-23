@@ -193,9 +193,6 @@
          {
             "levelFailAdTimesSeenMaxKids":"5"
          },
-		 {
-			"adsOnRewardsEnabled":"true"
-		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
          },
@@ -403,7 +400,7 @@
             "uid":"Client"
          },
          {
-            "minIOSVersion":"1.22.0"
+            "minIOSVersion":"2.2.2"
          },
          {
             "tweakVersion":"3"
@@ -1022,7 +1019,7 @@
                   "levelsLives":"2"
                },
                {
-                  "endDate":"7/14/2024 23:59 -7:00"
+                  "endDate":"7/11/2024 23:59 -7:00"
                },
                {
                   "eventComingDate":"7/7/2024 00:01 -7:00"
@@ -6179,10 +6176,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"2"
+            "interstitialAdMaxTimesSeenThisSession":"10"
          },
          {
-            "interstitialAdTimesSeenMax":"2"
+            "interstitialAdTimesSeenMax":"10"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
@@ -6192,14 +6189,7 @@
          },
          {
             "interstitialAdNumSessionsToSkip":"0"
-         },
-		 {
-            "interstitialNumberOfWinToShowInterstitial":"2"
-         },
-		 {
-            "interstitialOnlyOnNumberOfWin":"true"
          }
-		 
       ]
    },
    {

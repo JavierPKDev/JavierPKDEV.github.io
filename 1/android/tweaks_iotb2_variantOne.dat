@@ -193,6 +193,9 @@
          {
             "levelFailAdTimesSeenMaxKids":"5"
          },
+		 {
+			"adsOnRewardsEnabled":"true"
+		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
          },
@@ -410,13 +413,13 @@
    {
       "lives":[
          {
-            "maxLives":"10"
+            "maxLives":"5"
          },
          {
-            "initialLives":"10"
+            "initialLives":"5"
          },
          {
-            "lifeRegenSeconds":"60"
+            "lifeRegenSeconds":"1500"
          },
          {
             "uid":"Lives"
@@ -589,7 +592,7 @@
    {
       "challengeListData":[
          {
-            "customValues":"ChallengeListData-StarChallenge_0_3/ChallengeListData-June_ShootForStars/ChallengeListData-June_IOTB2_5/ChallengeListData-June_IOTB2_6/ChallengeListData-July_IOTB2_1/ChallengeListData-July_IOTB2_2/ChallengeListData-July_IOTB2_3/ChallengeListData-July_IOTB2_4/ChallengeListData-July_IOTB2_5/ChallengeListData-July_IOTB2_6/ChallengeListData-July_IOTB2_7/ChallengeListData-July_IOTB2_8/ChallengeListData-July_IOTB2_9/ChallengeListData-August_IOTB2_1/ChallengeListData-August_IOTB2_2/ChallengeListData-August_IOTB2_3/ChallengeListData-August_IOTB2_4/ChallengeListData-August_IOTB2_5/ChallengeListData-August_IOTB2_6/ChallengeListData-August_IOTB2_7/ChallengeListData-August_IOTB2_8/ChallengeListData-August_IOTB2_9/ChallengeListData-August_IOTB2_10/ChallengeListData-September_FullMoonFun/ChallengeListData-September_IOTB2_1/ChallengeListData-September_AimForTheStars/ChallengeListData-September_IOTB2_2/ChallengeListData-September_AutumnAdventures/ChallengeListData-September_IOTB2_3/ChallengeListData-September_ShootForStars/ChallengeListData-September_IOTB2_4/ChallengeListData-October_FallFrenzy/ChallengeListData-October_IOTB2_1/ChallengeListData-October_ShootingStars/ChallengeListData-October_IOTB2_2/ChallengeListData-October_MonstrouslyFun/ChallengeListData-October_IOTB2_3/ChallengeListData-October_SpookyStars/ChallengeListData-October_IOTB2_5/ChallengeListData-November_StarryNight/ChallengeListData-November_IOTB2_1/ChallengeListData-November_WinterWoes/ChallengeListData-November_IOTB2_2/ChallengeListData-November_RisingStar/ChallengeListData-November_IOTB2_3/ChallengeListData-November_MajesticMatches/ChallengeListData-November_IOTB2_5/ChallengeListData-December_WinterStar/ChallengeListData-December_IOTB2_1/ChallengeListData-December_MatchTheDayAway/ChallengeListData-December_IOTB2_2/ChallengeListData-December_SnowyStar/ChallengeListData-December_IOTB2_3/ChallengeListData-December_JingleWithJoy/ChallengeListData-December_IOTB2_4"
+            "customValues":"ChallengeListData-StarChallenge_0_3/ChallengeListData-June_ShootForStars/ChallengeListData-June_IOTB2_5/ChallengeListData-July_IOTB2_1/ChallengeListData-July_IOTB2_2/ChallengeListData-July_IOTB2_3/ChallengeListData-July_IOTB2_4/ChallengeListData-July_IOTB2_5/ChallengeListData-August_IOTB2_1/ChallengeListData-August_IOTB2_2/ChallengeListData-August_IOTB2_3/ChallengeListData-August_IOTB2_4/ChallengeListData-August_IOTB2_5/ChallengeListData-September_FullMoonFun/ChallengeListData-September_IOTB2_1/ChallengeListData-September_AimForTheStars/ChallengeListData-September_IOTB2_2/ChallengeListData-September_AutumnAdventures/ChallengeListData-September_IOTB2_3/ChallengeListData-September_ShootForStars/ChallengeListData-September_IOTB2_4/ChallengeListData-October_FallFrenzy/ChallengeListData-October_IOTB2_1/ChallengeListData-October_ShootingStars/ChallengeListData-October_IOTB2_2/ChallengeListData-October_MonstrouslyFun/ChallengeListData-October_IOTB2_3/ChallengeListData-October_SpookyStars/ChallengeListData-October_IOTB2_5/ChallengeListData-November_StarryNight/ChallengeListData-November_IOTB2_1/ChallengeListData-November_WinterWoes/ChallengeListData-November_IOTB2_2/ChallengeListData-November_RisingStar/ChallengeListData-November_IOTB2_3/ChallengeListData-November_MajesticMatches/ChallengeListData-November_IOTB2_5/ChallengeListData-December_WinterStar/ChallengeListData-December_IOTB2_1/ChallengeListData-December_MatchTheDayAway/ChallengeListData-December_IOTB2_2/ChallengeListData-December_SnowyStar/ChallengeListData-December_IOTB2_3/ChallengeListData-December_JingleWithJoy/ChallengeListData-December_IOTB2_4"
          },
          {
             "starChallenge_0_3":[
@@ -716,10 +719,10 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"6/26/2024 23:59 -7:00"
+                  "endDate":"6/28/2024 23:59 -7:00"
                },
                {
                   "eventComingDate":"6/24/2024 00:01 -7:00"
@@ -747,157 +750,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "June_IOTB2_6":[
-               {
-                  "WeeclyCycle":"4"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"June_IOTB2_6"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"6/29/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"6/27/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"6/28/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -1016,10 +869,10 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"7/3/2024 23:59 -7:00"
+                  "endDate":"7/4/2024 23:59 -7:00"
                },
                {
                   "eventComingDate":"7/1/2024 00:01 -7:00"
@@ -1047,7 +900,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -1166,16 +1019,16 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"7/6/2024 23:59 -7:00"
+                  "endDate":"7/14/2024 23:59 -7:00"
                },
                {
-                  "eventComingDate":"7/4/2024 00:01 -7:00"
+                  "eventComingDate":"7/7/2024 00:01 -7:00"
                },
                {
-                  "startDate":"7/5/2024 00:01 -7:00"
+                  "startDate":"7/8/2024 00:01 -7:00"
                },
                {
                   "levelsEventMapAssetName":"io2_bg_challenge"
@@ -1197,7 +1050,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -1316,16 +1169,16 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"7/9/2024 23:59 -7:00"
+                  "endDate":"7/17/2024 23:59 -7:00"
                },
                {
-                  "eventComingDate":"7/7/2024 00:01 -7:00"
+                  "eventComingDate":"7/14/2024 00:01 -7:00"
                },
                {
-                  "startDate":"7/8/2024 00:01 -7:00"
+                  "startDate":"7/15/2024 00:01 -7:00"
                },
                {
                   "levelsEventMapAssetName":"io2_bg_challenge"
@@ -1347,7 +1200,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -1466,16 +1319,16 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"7/12/2024 23:59 -7:00"
+                  "endDate":"7/25/2024 23:59 -7:00"
                },
                {
-                  "eventComingDate":"7/10/2024 00:01 -7:00"
+                  "eventComingDate":"7/21/2024 00:01 -7:00"
                },
                {
-                  "startDate":"7/11/2024 00:01 -7:00"
+                  "startDate":"7/22/2024 00:01 -7:00"
                },
                {
                   "levelsEventMapAssetName":"io2_bg_challenge"
@@ -1497,7 +1350,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -1616,166 +1469,16 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
-                  "endDate":"7/15/2024 23:59 -7:00"
+                  "endDate":"7/31/2024 23:59 -7:00"
                },
                {
-                  "eventComingDate":"7/13/2024 00:01 -7:00"
+                  "eventComingDate":"7/28/2024 00:01 -7:00"
                },
                {
-                  "startDate":"7/14/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "July_IOTB2_6":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"July_IOTB2_6"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"7/18/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"7/16/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"7/17/2024 00:01 -7:00"
+                  "startDate":"7/29/2024 00:01 -7:00"
                },
                {
                   "levelsEventMapAssetName":"io2_bg_challenge"
@@ -1797,457 +1500,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "July_IOTB2_7":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"July_IOTB2_7"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"7/23/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"7/21/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"7/22/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "July_IOTB2_8":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"July_IOTB2_8"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"7/26/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"7/24/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"7/25/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "July_IOTB2_9":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"July_IOTB2_9"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"7/29/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"7/27/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"7/28/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -2366,7 +1619,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"8/3/2024 23:59 -7:00"
@@ -2397,7 +1650,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -2516,7 +1769,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"8/6/2024 23:59 -7:00"
@@ -2547,7 +1800,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -2666,7 +1919,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"8/9/2024 23:59 -7:00"
@@ -2697,7 +1950,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -2816,7 +2069,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"8/12/2024 23:59 -7:00"
@@ -2847,7 +2100,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -2966,7 +2219,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"8/16/2024 23:59 -7:00"
@@ -2997,757 +2250,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "August_IOTB2_6":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"August_IOTB2_6"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"8/19/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"8/17/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"8/18/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "August_IOTB2_7":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"August_IOTB2_7"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"8/22/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"8/20/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"8/21/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "August_IOTB2_8":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"August_IOTB2_8"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"8/25/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"8/23/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"8/24/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "August_IOTB2_9":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"August_IOTB2_9"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"8/28/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"8/26/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"8/27/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
-                           },
-                           {
-                              "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
-                           },
-                           {
-                              "levelNames":[
-                                 {
-                                    "names":"FRE_Event3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT3"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT3"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_EVENT2"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT1"
-                                 },
-                                 {
-                                    "names":"CLR_Event4"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT2"
-                                 },
-                                 {
-                                    "names":"TAR_EVENT4"
-                                 },
-                                 {
-                                    "names":"FRE_EVENT2"
-                                 }
-                              ]
-                           },
-                           {
-                              "prizes":[
-                                 {
-                                    "Queue":"2"
-                                 },
-                                 {
-                                    "Gems":"4"
-                                 },
-                                 {
-                                    "LineExtender":"1"
-                                 },
-                                 {
-                                    "Rainbow":"2"
-                                 },
-                                 {
-                                    "Hearts":"4"
-                                 }
-                              ]
-                           },
-                           {
-		                      "TutorialLevels": [
-		                        {
-		                            "names": "FRE_Anxiety_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Ennui_Tutorial"
-		                        },
-		                        {
-		                            "names": "FRE_Envy_Tutorial"
-		                        },
-		                        {
-		                            "names": "CLR_Embarrassment_Tutorial"
-		                        }
-		                      ]
-                    		}
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "August_IOTB2_10":[
-               {
-                  "WeeclyCycle":"1"
-               },
-               {
-                  "AvaliableDays":"1"
-               },
-               {
-                  "EventDuration":"1"
-               },
-               {
-                  "displayFrequency":"0"
-               },
-               {
-                  "amountToSucceed":"30"
-               },
-               {
-                  "uid":"August_IOTB2_10"
-               },
-               {
-                  "eventBannerAssetName":"IO_DejaVu_head"
-               },
-               {
-                  "shouldShowPromo":"true"
-               },
-               {
-                  "levelsEventClaimScreenAssetName":"IO_DejaVu_claimImage"
-               },
-               {
-                  "eventMapIconAssetName":"io2_icon_challenge"
-               },
-               {
-                  "levelsEventUIHeaddressAssetName":"IO_DejaVu_containerTrim"
-               },
-               {
-                  "type":"Levels"
-               },
-               {
-                  "levelsLives":"4"
-               },
-               {
-                  "endDate":"8/31/2024 23:59 -7:00"
-               },
-               {
-                  "eventComingDate":"8/29/2024 00:01 -7:00"
-               },
-               {
-                  "startDate":"8/30/2024 00:01 -7:00"
-               },
-               {
-                  "levelsEventMapAssetName":"io2_bg_challenge"
-               },
-               {
-                  "assetBundle":"iotb2levelschallenge"
-               },
-               {
-                  "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData"
-               },
-               {
-                  "levelsData":[
-                     {
-                        "customValues":"ChallengeListData-AB_LevelsEvent_024_6-LevelsData-Data1"
-                     },
-                     {
-                        "data1":[
-                           {
-                              "levelRequirement":"3"
-                           },
-                           {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -3952,7 +2455,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"9/8/2024 23:59 -7:00"
@@ -3983,7 +2486,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -4188,7 +2691,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"9/16/2024 23:59 -7:00"
@@ -4219,7 +2722,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -4424,7 +2927,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"9/24/2024 23:59 -7:00"
@@ -4455,7 +2958,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -4660,7 +3163,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"10/1/2024 23:59 -7:00"
@@ -4691,7 +3194,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -4896,7 +3399,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"10/9/2024 23:59 -7:00"
@@ -4927,7 +3430,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -5132,7 +3635,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"10/17/2024 23:59 -7:00"
@@ -5163,7 +3666,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -5368,7 +3871,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"10/24/2024 23:59 -7:00"
@@ -5399,7 +3902,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -5604,7 +4107,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"10/31/2024 23:59 -7:00"
@@ -5635,7 +4138,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -5840,7 +4343,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"11/8/2024 23:59 -7:00"
@@ -5871,7 +4374,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -6076,7 +4579,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"11/16/2024 23:59 -7:00"
@@ -6107,7 +4610,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -6312,7 +4815,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"11/23/2024 23:59 -7:00"
@@ -6343,7 +4846,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -6548,7 +5051,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"11/30/2024 23:59 -7:00"
@@ -6579,7 +5082,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -6784,7 +5287,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"12/8/2024 23:59 -7:00"
@@ -6815,7 +5318,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -7020,7 +5523,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"12/16/2024 23:59 -7:00"
@@ -7051,7 +5554,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -7256,7 +5759,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"12/23/2024 23:59 -7:00"
@@ -7287,7 +5790,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -7492,7 +5995,7 @@
                   "type":"Levels"
                },
                {
-                  "levelsLives":"4"
+                  "levelsLives":"2"
                },
                {
                   "endDate":"12/31/2024 23:59 -7:00"
@@ -7523,7 +6026,7 @@
                               "levelRequirement":"3"
                            },
                            {
-                              "numLives":"4"
+                              "numLives":"2"
                            },
                            {
                               "customValues":"ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Prizes/ChallengeListData-AB_LevelsEvent_024_6-L.Data-Data1-Names"
@@ -7582,21 +6085,21 @@
                               ]
                            },
                            {
-                              "TutorialLevels":[
-                                 {
-                                    "names":"FRE_Anxiety_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Embarrassment_Tutorial"
-                                 },
-                                 {
-                                    "names":"CLR_Ennui_Tutorial"
-                                 },
-                                 {
-                                    "names":"FRE_Envy_Tutorial"
-                                 }
-                              ]
-                           }
+		                      "TutorialLevels": [
+		                        {
+		                            "names": "FRE_Anxiety_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Ennui_Tutorial"
+		                        },
+		                        {
+		                            "names": "FRE_Envy_Tutorial"
+		                        },
+		                        {
+		                            "names": "CLR_Embarrassment_Tutorial"
+		                        }
+		                      ]
+                    		}
                         ]
                      }
                   ]
@@ -7676,10 +6179,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"10"
+            "interstitialAdMaxTimesSeenThisSession":"2"
          },
          {
-            "interstitialAdTimesSeenMax":"10"
+            "interstitialAdTimesSeenMax":"2"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
@@ -7689,7 +6192,14 @@
          },
          {
             "interstitialAdNumSessionsToSkip":"0"
+         },
+		 {
+            "interstitialNumberOfWinToShowInterstitial":"2"
+         },
+		 {
+            "interstitialOnlyOnNumberOfWin":"true"
          }
+		 
       ]
    },
    {

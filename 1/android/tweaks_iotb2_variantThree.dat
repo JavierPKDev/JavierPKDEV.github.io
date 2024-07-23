@@ -110,7 +110,7 @@
             "spinnerAllowPayForSpinKids":"true"
          },
          {
-            "adsOnLevelFailEnabledKids":"true"
+            "adsOnLevelFailEnabledKids":"false"
          },
          {
             "spinnerMaxPaidSpinsPayerKids":"5"
@@ -119,7 +119,7 @@
             "levelFailAdLevelRequirement":"20"
          },
          {
-            "spinnerAllowPayForSpinPayerKids":"true"
+            "spinnerAllowPayForSpinPayerKids":"false"
          },
          {
             "numLives":"1"
@@ -164,7 +164,7 @@
             "spinnerEnabled":"true"
          },
          {
-            "spinnerAllowPayForSpinPayer":"true"
+            "spinnerAllowPayForSpinPayer":"false"
          },
          {
             "rewardType":"0"
@@ -176,10 +176,10 @@
             "outOfLivesAdTimesSeenMaxKids":"3"
          },
          {
-            "adsOnOutOfLivesEnabled":"true"
+            "adsOnOutOfLivesEnabled":"false"
          },
          {
-            "adsOnOutOfLivesEnabledKids":"true"
+            "adsOnOutOfLivesEnabledKids":"false"
          },
          {
             "outOfLivesAdLevelRequirementKids":"10"
@@ -193,6 +193,9 @@
          {
             "levelFailAdTimesSeenMaxKids":"5"
          },
+		 {
+			"adsOnRewardsEnabled":"false"
+		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
          },
@@ -400,7 +403,7 @@
             "uid":"Client"
          },
          {
-            "minIOSVersion":"2.2.2"
+            "minIOSVersion":"1.22.0"
          },
          {
             "tweakVersion":"3"
@@ -1019,7 +1022,7 @@
                   "levelsLives":"2"
                },
                {
-                  "endDate":"7/11/2024 23:59 -7:00"
+                  "endDate":"7/14/2024 23:59 -7:00"
                },
                {
                   "eventComingDate":"7/7/2024 00:01 -7:00"
@@ -6167,29 +6170,36 @@
    {
       "ads":[
          {
-            "interstitialAdsEnabled":"true"
+            "interstitialAdsEnabled":"false"
          },
          {
-            "interstitialAdsEnabledOnLevelLose":"true"
+            "interstitialAdsEnabledOnLevelLose":"false"
          },
          {
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"10"
+            "interstitialAdMaxTimesSeenThisSession":"4"
          },
          {
-            "interstitialAdTimesSeenMax":"10"
+            "interstitialAdTimesSeenMax":"4"
          },
          {
-            "interstitialAdsEnabledOnLevelWin":"true"
+            "interstitialAdsEnabledOnLevelWin":"false"
          },
          {
             "interstitialAdLevelRequirement":"10"
          },
          {
             "interstitialAdNumSessionsToSkip":"0"
+         },
+		 {
+            "interstitialNumberOfWinToShowInterstitial":"4"
+         },
+		 {
+            "interstitialOnlyOnNumberOfWin":"false"
          }
+		 
       ]
    },
    {
