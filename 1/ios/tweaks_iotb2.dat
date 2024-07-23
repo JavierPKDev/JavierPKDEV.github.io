@@ -193,6 +193,9 @@
          {
             "levelFailAdTimesSeenMaxKids":"5"
          },
+		 {
+			"adsOnRewardsEnabled":"true"
+		 },
          {
             "customValues":"VideoAdsData-SpinnerPrizes"
          },
@@ -6176,10 +6179,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"10"
+            "interstitialAdMaxTimesSeenThisSession":"2"
          },
          {
-            "interstitialAdTimesSeenMax":"10"
+            "interstitialAdTimesSeenMax":"2"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
@@ -6189,7 +6192,14 @@
          },
          {
             "interstitialAdNumSessionsToSkip":"0"
+         },
+		 {
+            "interstitialNumberOfWinToShowInterstitial":"2"
+         },
+		 {
+            "interstitialOnlyOnNumberOfWin":"true"
          }
+		 
       ]
    },
    {
