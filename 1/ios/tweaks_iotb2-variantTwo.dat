@@ -6179,10 +6179,10 @@
             "uid":"Ads"
          },
          {
-            "interstitialAdMaxTimesSeenThisSession":"4"
+            "interstitialAdMaxTimesSeenThisSession":"2"
          },
          {
-            "interstitialAdTimesSeenMax":"4"
+            "interstitialAdTimesSeenMax":"2"
          },
          {
             "interstitialAdsEnabledOnLevelWin":"true"
