@@ -9589,7 +9589,7 @@
             "amount":"12",
             "enabled":"true",
             "showBonus":"false",
-            "popular":"false",
+            "popular":"true",
             "unlimitedLivesTime":"2"
          },
          {
