@@ -9586,7 +9586,7 @@
          {
             "uid":"CoinsTier01",
             "storeInternalId":"CoinsTier01",
-            "amount":"10",
+            "amount":"12",
             "enabled":"true",
             "showBonus":"false",
             "popular":"false",
@@ -9660,7 +9660,7 @@
          {
             "uid":"CoinsTier08",
             "storeInternalId":"CoinsTier08",
-            "amount":"650",
+            "amount":"640",
             "enabled":"true",
             "showBonus":"false",
             "bonusAmount":"30",
