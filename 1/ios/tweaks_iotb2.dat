@@ -8033,7 +8033,7 @@
          {
             "uid":"CoinsTier099",
             "storeInternalId":"CoinsTier099",
-            "amount":"10",
+            "amount":"100",
             "enabled":"true",
             "showBonus":"false",
             "popular":"false",
