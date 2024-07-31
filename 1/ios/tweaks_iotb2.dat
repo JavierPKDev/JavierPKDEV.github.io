@@ -194,6 +194,12 @@
             "levelFailAdTimesSeenMaxKids":"5"
          },
          {
+            "gemsGivenForFreeGemWatch":"5"
+         },
+         {
+            "hoursUntilNextFreeGemWatch":"8"
+         },	
+         {
             "customValues":"VideoAdsData-SpinnerPrizes"
          },
          {
