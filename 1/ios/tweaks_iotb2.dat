@@ -403,7 +403,7 @@
             "minIOSVersion":"2.2.2"
          },
          {
-            "tweakVersion":"3"
+            "tweakVersion":"10"
          }
       ]
    },
